@@ -1,0 +1,8 @@
+.menu li {
+    display: inline;
+}
+
+.pra-voce,
+.em-destaque {
+    float: left;
+}
